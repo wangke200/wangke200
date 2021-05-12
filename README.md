@@ -1,0 +1,1 @@
+This is the source code of Affirm. It includes two projects ‘affirm’ and ‘affirm_veification’. ‘affirm’ is about the operation of building index and query, and ‘affirm_verification’ is about the verification technology: rsa accumulator (used in VDERS), gbf (used in VMKSe), and multiset hash (used in AFFIRM).
