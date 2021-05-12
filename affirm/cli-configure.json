@@ -1,0 +1,17 @@
+[
+	{
+		"ADDRESS": "localhost",
+		"REDIS PORT": 6381,
+		"THRIFT PORT": 9091
+	},
+	{
+		"ADDRESS": "localhost",
+		"REDIS PORT": 6382,
+		"THRIFT PORT": 9092
+	},
+	{
+		"ADDRESS": "localhost",
+		"REDIS PORT": 6383,
+		"THRIFT PORT": 9093
+	}
+]
